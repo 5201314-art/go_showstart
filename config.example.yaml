@@ -6,7 +6,7 @@ system:
 showstart:
   sign: ""
   token: ""
-  cookie: ""
+  cookie: "Hm_lvt_da038bae565bb601b53cc9cb25cdca74=1794050676; Hm_lpvt_da038bae565bb601b53cc9cb25cdca74=1794050676; HMACCOUNT=A416693780D36385"
   st_flpv: ""
   cusid: ""
   cusname: "nil"
@@ -15,14 +15,14 @@ showstart:
   cdeviceinfo: ""
 
 ticket:
-  activity_id: 123456
-  start_time: "2024-07-25 12:00:00.000"
+  activity_id: 314892
+  start_time: "2026-11-7 20:00:00.000"
   list:
-    - session: "2024-08-16 周五 20:00"
-      price: "388"
+    - session: "2026-11-27 周五 20:00"
+      price: "438"
   people:
-    - "观演人1"
-    - "观演人2"
+    - "宋明珠"
+    - "和牧瑶"
 
 smtp_email:
   enable: 0
